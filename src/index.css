@@ -1,0 +1,26 @@
+/* Carbon Design System imports */
+@import '@carbon/react/scss/theme';
+@import '@carbon/react/scss/components';
+@import '@carbon/react/scss/type';
+@import '@carbon/react/scss/grid';
+
+body {
+  margin: 0;
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--cds-background);
+  color: var(--cds-text-primary);
+}
+
+code {
+  font-family: 'IBM Plex Mono', source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
