@@ -2,7 +2,7 @@
   "name": "mex-frontend",
   "version": "1.0.0",
   "description": "MEX - Cross-border payment platform using USDC and USDT",
-  "homepage": "https://MEX-Technologies.github.io/MEX-Frontend",
+  "homepage": "https://mex.money",
   "private": true,
   "dependencies": {
     "@carbon/icons-react": "^11.5.0",
