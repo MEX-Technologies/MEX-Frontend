@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MEX-Frontend/static/css/main.e145c895.css",
+    "main.js": "/MEX-Frontend/static/js/main.7498a15c.js",
+    "index.html": "/MEX-Frontend/index.html",
+    "main.e145c895.css.map": "/MEX-Frontend/static/css/main.e145c895.css.map",
+    "main.7498a15c.js.map": "/MEX-Frontend/static/js/main.7498a15c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e145c895.css",
+    "static/js/main.7498a15c.js"
+  ]
+}

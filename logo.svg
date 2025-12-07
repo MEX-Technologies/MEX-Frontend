@@ -1,0 +1,45 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- MEX Logo - Orange geometric design -->
+  <g fill="#FF6B35">
+    <!-- Top section - diamond and connections -->
+    <polygon points="60,10 65,15 60,20 55,15" />
+    <rect x="50" y="12" width="8" height="6" rx="1"/>
+    <rect x="62" y="12" width="8" height="6" rx="1"/>
+    <rect x="45" y="14" width="4" height="2"/>
+    <rect x="71" y="14" width="4" height="2"/>
+    <rect x="43" y="15" width="2" height="2"/>
+    <rect x="75" y="15" width="2" height="2"/>
+    
+    <!-- Central M shape -->
+    <!-- Left side of M -->
+    <rect x="25" y="25" width="6" height="50"/>
+    <rect x="31" y="25" width="6" height="50"/>
+    <rect x="37" y="25" width="6" height="50"/>
+    
+    <!-- Right side of M -->
+    <rect x="77" y="25" width="6" height="50"/>
+    <rect x="83" y="25" width="6" height="50"/>
+    <rect x="89" y="25" width="6" height="50"/>
+    
+    <!-- V shape in middle -->
+    <polygon points="43,75 50,65 57,75 50,80"/>
+    <polygon points="63,75 70,65 77,75 70,80"/>
+    
+    <!-- Top horizontal bar -->
+    <rect x="37" y="25" width="46" height="6"/>
+    
+    <!-- Side diamonds -->
+    <polygon points="20,50 25,45 30,50 25,55" />
+    <polygon points="90,50 95,45 100,50 95,55" />
+    
+    <!-- Bottom section - diamond and connections -->
+    <polygon points="60,100 65,95 60,90 55,95" />
+    <rect x="50" y="92" width="8" height="6" rx="1"/>
+    <rect x="62" y="92" width="8" height="6" rx="1"/>
+    <rect x="45" y="94" width="4" height="2"/>
+    <rect x="71" y="94" width="4" height="2"/>
+    <rect x="43" y="95" width="2" height="2"/>
+    <rect x="75" y="95" width="2" height="2"/>
+  </g>
+</svg>
+
