@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MEX-Frontend/static/css/main.89a01c31.css",
-    "main.js": "/MEX-Frontend/static/js/main.409ff6c5.js",
-    "index.html": "/MEX-Frontend/index.html",
-    "main.89a01c31.css.map": "/MEX-Frontend/static/css/main.89a01c31.css.map",
-    "main.409ff6c5.js.map": "/MEX-Frontend/static/js/main.409ff6c5.js.map"
+    "main.css": "/static/css/main.89a01c31.css",
+    "main.js": "/static/js/main.fea19b7f.js",
+    "index.html": "/index.html",
+    "main.89a01c31.css.map": "/static/css/main.89a01c31.css.map",
+    "main.fea19b7f.js.map": "/static/js/main.fea19b7f.js.map"
   },
   "entrypoints": [
     "static/css/main.89a01c31.css",
-    "static/js/main.409ff6c5.js"
+    "static/js/main.fea19b7f.js"
   ]
 }
